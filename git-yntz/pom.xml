@@ -24,5 +24,11 @@
             <artifactId>spring-webmvc</artifactId>
             <version>5.0.2.RELEASE</version>
         </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-aop</artifactId>
+            <version>5.0.2.RELEASE</version>
+        </dependency>
+        <!--我是一个小分支,我要完成白条功能-->
     </dependencies>
 </project>
